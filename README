@@ -1,0 +1,4 @@
+This project Webscrapes 0-60 times of all major Automobile Manufacturers
+The Data Pipeline is hosted in an AWS Stack for querying in Athena and orchestration through other AWS services.
+Results compiled and Analytical dashboard hosted on Tableau Public
+    - https://public.tableau.com/app/profile/kordelle.walker/viz/AutomobileManufacturer0-60Compilation/Main
