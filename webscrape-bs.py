@@ -8,10 +8,8 @@ from sqlalchemy import null
 def Intro():
     print(" ")
     print(">>>>>>>>>>>>> 0-60 Time import by Kordelle Walker <<<<<<<<<<<<")
-    print(" ")
     print("This Script webscrapes 0-60 times for every make and model car and")
     print("sends the output to local directory in multiple .csv format files")
-    print(" ")
     while True:
        answer = input('Do you want to create/update all csv files?: (y/n)')
        if answer.lower().startswith("y"):
